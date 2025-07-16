@@ -18,7 +18,7 @@ This dataset contains detailed records of crime incidents reported to the police
 
 To ensure accurate analysis, the following cleaning steps were applied in the notebook:
 
-- ✅ Converted `DATE OCC` and `Date Rptd` columns to proper `datetime` format
+- ✅ Converted DATE OCC and `Date Rptd` columns to proper `datetime` format
 - ✅ Dropped rows with invalid or missing date values
 - ✅ Checked and handled missing values in key columns (e.g., crime type, area name)
 - ✅ Verified data types (e.g., numeric for time, latitude, longitude)
